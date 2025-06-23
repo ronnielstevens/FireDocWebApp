@@ -1,0 +1,9 @@
+body { margin:0; overflow:hidden; font-family:Arial; }
+#toolbar { background:#333; color:#fff; padding:8px; }
+#toolbar button { margin-right:4px; }
+#map { position:absolute; top:40px; bottom:0; width:100%; }
+#draw { position:absolute; top:40px; bottom:0; }
+#weather-log {
+  position:absolute; top:60px; left:20px;
+  background:#fff; padding:10px; border:1px solid #000;
+}
